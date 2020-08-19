@@ -19,7 +19,7 @@ async function getAcessToken(){
     let {data} = await axios.post(`${baseUrl}/auth`,user)
     let token = data.accessToken
     return token
-}
+};
 
 let token = getAcessToken()
 
