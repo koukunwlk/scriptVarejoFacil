@@ -1,0 +1,30 @@
+[
+    {
+        "id": "07898230895687",
+        "tipo": "EAN",
+        "fator": 1,
+        "eanTributado": true,
+        "produtoId": 1
+    },
+    {
+        "id": "07896033203388",
+        "tipo": "EAN",
+        "fator": 1,
+        "eanTributado": true,
+        "produtoId": 2
+    },
+    {
+        "id": "07898926342334",
+        "tipo": "EAN",
+        "fator": 1,
+        "eanTributado": true,
+        "produtoId": 3
+    },
+    {
+        "id": "07898926342341",
+        "tipo": "EAN",
+        "fator": 1,
+        "eanTributado": true,
+        "produtoId": 4
+    }
+]

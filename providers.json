@@ -1,0 +1,101 @@
+[
+    {
+        "id": 139839,
+        "fornecedorId": 1218,
+        "produtoId": 1,
+        "referencia": "1214",
+        "unidade": "UN",
+        "quantidade": 1,
+        "nivel": "SECUNDARIO"
+    },
+    {
+        "id": 118250,
+        "fornecedorId": 252,
+        "produtoId": 1,
+        "referencia": "89568",
+        "unidade": "GRS",
+        "quantidade": 10,
+        "nivel": "PRINCIPAL"
+    },
+    {
+        "id": 126696,
+        "fornecedorId": 1108,
+        "produtoId": 1,
+        "referencia": "58094",
+        "unidade": "UN",
+        "quantidade": 1,
+        "nivel": "SECUNDARIO"
+    },
+    {
+        "id": 147216,
+        "fornecedorId": 1277,
+        "produtoId": 1,
+        "referencia": "104507",
+        "unidade": "UN",
+        "quantidade": 1,
+        "nivel": "SECUNDARIO"
+    },
+    {
+        "id": 162765,
+        "fornecedorId": 1394,
+        "produtoId": 1,
+        "referencia": "59136108",
+        "unidade": "CX",
+        "quantidade": 10,
+        "nivel": "SECUNDARIO"
+    },
+    {
+        "id": 118791,
+        "fornecedorId": 329,
+        "produtoId": 2,
+        "referencia": "9445602",
+        "unidade": "UN",
+        "quantidade": 1,
+        "nivel": "PRINCIPAL"
+    },
+    {
+        "id": 140085,
+        "fornecedorId": 1218,
+        "produtoId": 3,
+        "referencia": "1216",
+        "unidade": "UN",
+        "quantidade": 1,
+        "nivel": "SECUNDARIO"
+    },
+    {
+        "id": 154298,
+        "fornecedorId": 1207,
+        "produtoId": 3,
+        "referencia": "71",
+        "unidade": "FD",
+        "quantidade": 30,
+        "nivel": "SECUNDARIO"
+    },
+    {
+        "id": 118255,
+        "fornecedorId": 139,
+        "produtoId": 3,
+        "referencia": "71",
+        "unidade": "FD",
+        "quantidade": 30,
+        "nivel": "PRINCIPAL"
+    },
+    {
+        "id": 154297,
+        "fornecedorId": 1207,
+        "produtoId": 4,
+        "referencia": "70",
+        "unidade": "FD",
+        "quantidade": 30,
+        "nivel": "SECUNDARIO"
+    },
+    {
+        "id": 118317,
+        "fornecedorId": 139,
+        "produtoId": 4,
+        "referencia": "70",
+        "unidade": "FD",
+        "quantidade": 30,
+        "nivel": "PRINCIPAL"
+    }
+]

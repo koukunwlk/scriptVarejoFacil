@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "EAN": "07898230895687",
+        "descricao": "MACARRAO ESPAGUE TRAD BONSABOR 500G ",
+        "descRed": "MACARRAO ESPAGUE TRA",
+        "providersId": [
+            139839,
+            118250,
+            126696,
+            147216,
+            162765
+        ]
+    },
+    {
+        "id": 2,
+        "EAN": "07896033203388",
+        "descricao": "CHUPETA LILLO 2 ORTODON SILICONE BOR ARREND",
+        "descRed": "CHUPETA LILLO 2 ORTO",
+        "providersId": [
+            118791
+        ]
+    },
+    {
+        "id": 3,
+        "EAN": "07898926342334",
+        "descricao": "FARINHA KUME BRANCA 1KG",
+        "descRed": "FAR KUM 1KG BRANCA",
+        "providersId": [
+            140085,
+            154298,
+            118255
+        ]
+    },
+    {
+        "id": 4,
+        "EAN": "07898926342341",
+        "descricao": "FARINHA KUME  AMARELA 1KG",
+        "descRed": "FAR KUM 1KG AMARELA",
+        "providersId": [
+            154297,
+            118317
+        ]
+    }
+]
