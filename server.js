@@ -12,7 +12,7 @@ async function getAccessToken(){
     axios.defaults.withCredentials = true
     let user = {
         username: "11",
-        password: "12091997"
+        password: "*******"
     }
 
     let {data} = await axios.post(`${baseUrl}/auth`,user)
